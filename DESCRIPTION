@@ -1,0 +1,18 @@
+Package: rThresholdout
+Type: Package
+Title: Thresholdout Algorithm
+Version: 1.0.0
+Authors@R: person("Yachen", "Yan", email = "yanyachen21@gmail.com", role = c("aut", "cre"))
+Description: Description: A Pure R implementation of Thresholdout Algorithm for
+    Adaptive Data Analysis and Holdout Reuse.
+URL: http://github.com/yanyachen/rThresholdout
+BugReports: http://github.com/yanyachen/rThresholdout/issues
+Imports: stats, data.table, R6
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2017-02-20 18:21:13 UTC; Administrator
+Author: Yachen Yan [aut, cre]
+Maintainer: Yachen Yan <yanyachen21@gmail.com>
